@@ -4,6 +4,9 @@
 
 This Excel project contains detailed payroll data for employees, including hours worked, hourly wages, overtime, and total pay over multiple weeks. The dataset spans several weeks in January and includes calculations of regular income, overtime pay, and total compensation for each employee.
 
+![Screenshot 2025-05-05 210622](https://github.com/user-attachments/assets/772bbf51-eaf0-4427-b7d4-36ae61dd908d)
+
+
 ### Contents
 
 - **Employee Information:** Last name, first name, and hourly wage.
